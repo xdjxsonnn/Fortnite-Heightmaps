@@ -6,7 +6,7 @@
 
 
 
------------------------ If you have any other questions, such as how to use these elevation maps, post a comment with your question and I will respond as soon as possible -----------------------
+----------------------- If you have any other questions, such as how to use these elevation maps, post a comment with your question and I will respond as soon as possible. If you need other height maps just ask for example i need the height map of fortnite patch 10.00 then i will update and post this file -----------------------
 
 
 
