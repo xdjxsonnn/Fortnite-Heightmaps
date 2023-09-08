@@ -14,7 +14,8 @@ https://www.epicgames.com/site/en-US/community-rules?sessionInvalidated=true
 
 
 When the step is completed, click on landscape in the selection as shown in the following example
-(!https://media.discordapp.net/attachments/822568989309534268/1149754095146639422/Unreal_Editor_08.09.2023_19_12_02.png)
+
+![e](https://media.discordapp.net/attachments/822568989309534268/1149754095146639422/Unreal_Editor_08.09.2023_19_12_02.png)
 
 
 When you're done, a very large menu should appear on the left edge of your screen. If you're there, in the menu bar at the top it says "Manage" "Sculpt" and "Paint" there click on Manage
