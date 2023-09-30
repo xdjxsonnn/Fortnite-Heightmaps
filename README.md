@@ -24,7 +24,7 @@
 
   
 					Link	
-<a href="https://www.fortnite.com/unreal-editor-for-fortnite-supplemental-terms?lang=en-US&sessionInvalidated=true">
+https://www.fortnite.com/unreal-editor-for-fortnite-supplemental-terms?lang=en-US&sessionInvalidated=true
 
 https://www.fortnite.com/news/fortnite-island-creator-rules?lang=en-US
 
