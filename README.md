@@ -21,7 +21,7 @@
 
  					***Tutorial***
   	𝘼𝙩𝙩𝙚𝙣𝙩𝙞𝙤𝙣 𝙖𝙣 𝙞𝙢𝙥𝙤𝙧𝙩𝙖𝙣𝙩 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 𝙩𝙤 𝙚𝙫𝙚𝙧𝙮𝙤𝙣𝙚 𝙬𝙝𝙤 𝙪𝙨𝙚𝙨 𝙩𝙝𝙚 𝙝𝙚𝙞𝙜𝙝𝙩𝙢𝙖𝙥𝙨 𝙝𝙚𝙧𝙚, 𝙥𝙡𝙚𝙖𝙨𝙚 𝙪𝙨𝙚 𝙬𝙞𝙩𝙝 𝙘𝙖𝙪𝙩𝙞𝙤𝙣 𝙧𝙪𝙡𝙚𝙨 𝙖𝙥𝙥𝙡𝙮 𝙖𝙨 𝙛𝙤𝙧 𝙚𝙥𝙞𝙘 𝙜𝙖𝙢𝙚𝙨 𝙪𝙣𝙙𝙚𝙧 𝙩𝙝𝙚 𝙐𝙀𝙁𝙉 𝙧𝙪𝙡𝙚𝙨
-[![Link](https://www.fortnite.com/unreal-editor-for-fortnite-supplemental-terms?lang=en-US&sessionInvalidated=true)]
+	[![Link](https://www.fortnite.com/unreal-editor-for-fortnite-supplemental-terms?lang=en-US&sessionInvalidated=true)
 
 	https://www.fortnite.com/news/fortnite-island-creator-rules?lang=en-US
 
