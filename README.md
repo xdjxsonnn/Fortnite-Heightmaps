@@ -68,7 +68,7 @@ For a heightmap or the layer information it doesn't matter, you first have to pr
 
  
 
-	In this next step click on import in the menu bar
+In this next step click on import in the menu bar
 
 [![Link]https://media.discordapp.net/attachments/822568989309534268/1149754690431627305/image.png?width=338&height=488)
 
