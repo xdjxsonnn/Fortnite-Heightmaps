@@ -35,7 +35,7 @@ https://www.epicgames.com/site/en-US/community-rules?sessionInvalidated=true
 
 			How do I use the Heightmap and Layer Infos?
 ***For a heightmap or the layer information it doesn't matter, you first have to press selection***
-[Link](https://media.discordapp.net/attachments/822568989309534268/1149753994005200976/image.png?width=757&height=488)
+![](https://media.discordapp.net/attachments/822568989309534268/1149753994005200976/image.png?width=757&height=488)
 
  
 
