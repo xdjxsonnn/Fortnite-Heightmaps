@@ -67,7 +67,7 @@ https://www.epicgames.com/site/en-US/community-rules?sessionInvalidated=true
 
  
 
-In this next step click on import in the menu bar
+	In this next step click on import in the menu bar
 
  [![](https://media.discordapp.net/attachments/822568989309534268/1149754690431627305/image.png?width=338&height=488)
 
