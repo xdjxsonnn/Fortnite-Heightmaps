@@ -38,7 +38,7 @@
 
 When the step is completed, click on landscape in the selection as shown in the following example 
 
-[![Link]https://media.discordapp.net/attachments/822568989309534268/1149754095146639422/Unreal_Editor_08.09.2023_19_12_02.png)
+[![Link2]https://media.discordapp.net/attachments/822568989309534268/1149754095146639422/Unreal_Editor_08.09.2023_19_12_02.png)
 
  
 
