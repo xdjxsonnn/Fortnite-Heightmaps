@@ -38,7 +38,8 @@ Fortnite rules
  
 
 
-* How do I use the Heightmap and Layer Infos? For a heightmap or the layer information it doesn't matter, you first have to press selection
+How do I use the Heightmap and Layer Infos? For a heightmap or the layer information it doesn't matter, you first have to press selection
+------------
 
 [![](https://media.discordapp.net/attachments/822568989309534268/1149753994005200976/image.png?width=757&height=488)
 
