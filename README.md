@@ -14,13 +14,3 @@
 
                                        𝙐𝙥𝙙𝙖𝙩𝙚𝙨
 	(𝙈𝙤𝙧𝙚 𝙪𝙥𝙙𝙖𝙩𝙚𝙨 𝙩𝙤 𝙘𝙤𝙢𝙚 𝙞𝙣 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚) 𝙎𝙩𝙖𝙮 𝙝𝙚𝙖𝙡𝙩𝙝𝙮 𝙖𝙣𝙙 𝙠𝙚𝙚𝙥 𝙮𝙤𝙪𝙧 𝙚𝙮𝙚𝙨 𝙤𝙥𝙚𝙣. 
-
-
-
-
-
-                                     𝙇𝙞𝙣𝙠
-			𝙔𝙤𝙪 𝙘𝙖𝙣 𝙛𝙞𝙣𝙙 𝙩𝙝𝙚 𝙡𝙞𝙣𝙠 𝙗𝙚𝙡𝙤𝙬
-
-
-	https://drive.google.com/file/d/1HqVD2duboV8eD657KFGkbAqG1LodM7FO/view?usp=sharing
