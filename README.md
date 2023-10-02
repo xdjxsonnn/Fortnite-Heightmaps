@@ -79,7 +79,7 @@
 # Season 8
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 8.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1xWa8Dt0dagvhnSVtelNl-P00ZMMdD6C7/view?usp=drive_link |
+| 8.00      | :white_check_mark: | :x:       |https://drive.google.com/file/d/1xWa8Dt0dagvhnSVtelNl-P00ZMMdD6C7/view?usp=drive_link         |
 | 8.01      | :x:                | :x:       | |
 | 8.10      | :x:                | :x:       | |
 | 8.11      | :x:                | :x:       | |
