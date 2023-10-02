@@ -28,15 +28,15 @@
 | 2.3.0     | :x:                | :x:       | |
 | 2.4.0     | :x:                | :x:       | |
 | 2.4.2     | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1ZqNICMapWmQN7Sy2JFtcERw0FRHaHh_1/view?usp=drive_link |
-| 2.5.0     | :x:                | :x:       | |
+| 2.5.0     | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1STgtxXMJvLlTzhsrgLd-DRFWy038ZAct/view?usp=drive_link |
 # Season 3
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 3.00      | :x:                | :x:       | |
-| 3.10      | :x:                | :x:       | |
-| 3.1.1     | :x:                | :x:       | |
+| 3.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1FHqQigiPvsROF24MFk0lXq3fIS07dwrR/view?usp=drive_link |
+| 3.10      |  :white_check_mark:| :white_check_mark:|https://drive.google.com/file/d/1s-Xg1PDXrOJWSBb0SXnDq3p4xtbprUF3/view?usp=drive_link |
+| 3.1.1     | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Hv2iiCllXK5bonfex6p0hPsV486Mmp7y/view?usp=drive_link |
 | 3.20      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/16YoCjl75RLD3OdcoXUOEvVTWfh4oXtYy/view?usp=drive_link |
-| 3.30      | :x:                | :x:       | |
+| 3.30      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1pKJCgO1N5DoXKJgJr-61EtXrEBb5ZWPi/view?usp=drive_link |
 | 3.50      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1gKzwt5sc4LYUfBMXvZAHYNCVNndp5jyd/view?usp=drive_link |
 | 3.60      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Mwnl2URi1bKzKrSZsoP1BNFQbAWBO5Ae/view?usp=drive_link |
 # Season 4
@@ -72,10 +72,10 @@
 # Season 7
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 7.00      | :x:                | :x:       | |
+| 7.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1eBte2G23Qs3mJQQ1Cogrl4pic4b4hRYw/view?usp=drive_link |
 | 7.10      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/14lSws7YcxlwYTFtoD7uJh5jtGI7k2vgw/view?usp=drive_link |
-| 7.20      | :x:                | :x:       | |
-| 7.30      | :x:                | :x:       | |
+| 7.20      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1aUGmfrMRJfe-KKmeJO7U3nd6zqbE2bik/view?usp=drive_link |
+| 7.30      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1luYXJtSUYnboIqL_ic3TSX4W21xNl44v/view?usp=drive_link |
 | 7.40      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/13yIiYzfrnfZw2SUIqF_xbYM2hmvyFO4O/view?usp=drive_link |
 # Season 8
 | Version   | Heightmap          | Minimap   | LINK               |
@@ -92,7 +92,7 @@
 # Season 9
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 9.00      | :x:                | :x:       | |
+| 9.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Bk_2FEHTpIcFMnqKgfAppPCdWFBhqg62/view?usp=drive_link |
 | 9.01      | :x:                | :x:       | |
 | 9.10      | :x:                | :x:       | |
 | 9.20      | :x:                | :x:       | |
