@@ -8,7 +8,7 @@
 ## Settings
 | LINK    |
 | ------- |
-|         |
+|https://github.com/76e451df-2d30-4f3a-b396-4230035296a0|
 
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   | LINK               |
