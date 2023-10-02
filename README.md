@@ -75,7 +75,7 @@ Here are all the versions we are still working on or have already finished
 # Season 8
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 8.00      | :white_check_mark: | :white_check_mark:|
+| 8.00      | :white_check_mark: | :x:       |
 | 8.01      | :x:                | :x:       |
 | 8.10      | :x:                | :x:       |
 | 8.11      | :x:                | :x:       |
