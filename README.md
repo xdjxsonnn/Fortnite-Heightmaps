@@ -1,9 +1,9 @@
 # Fortnite-Heightmaps
-The largest Fortnite heightmap archive on Github to date!
+* The largest Fortnite heightmap archive on Github to date!
 
 ## Available-Versions
 
-Here are all the versions we are still working on or have already finished
+* Here are all the versions we are still working on or have already finished
 
 ## Settings
 | LINK    |
