@@ -5,8 +5,8 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Season 0/1| Heightmap          |
-| -------   | ------------------ |
+| Season 0/1| Heightmap          || Season 0/1| Heightmap          |
+| -------   | ------------------ || -------   | ------------------ |
 | 1.20      | :x:                || 1.20      | :x:                |
 | 1.7.2     | :x:                |
 | 1.80      | :x:                |
