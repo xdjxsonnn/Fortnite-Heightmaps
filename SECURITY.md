@@ -5,7 +5,8 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Season 0/1| Heightmap          |
+# Season 0 & 1
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 1.20      | :x:                |
 | 1.7.2     | :x:                |
@@ -15,8 +16,8 @@ currently being supported with security updates.
 | 1.90      | :x:                |
 | 1.9.1     | :x:                |
 | 1.10      | :white_check_mark: |
-# Season
-| Season 2  | Heightmap          |
+# Season 2
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 1.11      | :white_check_mark: |
 | 2.1.0     | :x:                |
@@ -24,8 +25,8 @@ currently being supported with security updates.
 | 2.4.0     | :x:                |
 | 2.4.2     | :white_check_mark: |
 | 2.5.0     | :x:                |
-
-| Season 3  | Heightmap          |
+# Season 3
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 3.0       | :x:                |
 | 3.1       | :x:                |
@@ -33,8 +34,8 @@ currently being supported with security updates.
 | 3.3       | :x:                |
 | 3.5       | :white_check_mark: |
 | 3.6       | :white_check_mark: |
-
-| Season 4  | Heightmap          |
+# Season 4
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 4.00      | :white_check_mark: |
 | 4.10      | :white_check_mark: |
@@ -42,8 +43,8 @@ currently being supported with security updates.
 | 4.40      | :white_check_mark: |
 | 4.4.1     | :x:                |
 | 4.50      | :white_check_mark: |
-
-| Season 5  | Heightmap          |
+# Season 5
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 5.00      | :white_check_mark: |
 | 5.10      | :x: 		 |
@@ -51,8 +52,8 @@ currently being supported with security updates.
 | 5.30      | :x: 		 |
 | 5.40      | :x:		 |
 | 5.41      | :white_check_mark: |
-
-| Season 6  | Heightmap          |
+# Season 6
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 6.00      | :x: 		 |
 | 6.01      | :x:	 	 |
@@ -63,16 +64,16 @@ currently being supported with security updates.
 | 6.22      | :x:                |
 | 6.30      | :x:                |
 | 6.31      | :x:                |
-
-| Season 7  | Heightmap          |
+# Season 7
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 7.00      | :x:                |
 | 7.10      | :white_check_mark: |
 | 7.20      | :x:                |
 | 7.30      | :x:                |
 | 7.40      | :white_check_mark: |
-
-| Season 8  | Heightmap          |
+# Season 8
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 8.00      | :white_check_mark: |
 | 8.01      | :x:                |
@@ -83,8 +84,8 @@ currently being supported with security updates.
 | 8.40      | :x:                |
 | 8.50      | :x:                |
 | 8.51      | :x:                |
-
-| Season 9  | Heightmap          |
+# Season 9
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 9.00      | :x:                |
 | 9.01      | :x:                |
@@ -94,8 +95,8 @@ currently being supported with security updates.
 | 9.30      | :x:                |
 | 9.40      | :x:                |
 | 9.41      | :x:                |
-
-| Season 10 | Heightmap          |
+# Season 10
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 10.00     | :x:                |
 | 10.10     | :x:                |
@@ -103,13 +104,13 @@ currently being supported with security updates.
 | 10.30     | :x:                |
 | 10.31     | :x:                |
 | 10.40     | :x:                |
-
-| Season 11 | Heightmap          |
+# Season 11
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 11.00     | :x:                |
 | 11.31     | :x:                |
-
-| Season 12 | Heightmap          |
+# Season 12
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 12.00     | :x:                |
 | 12.10     | :x:                |
@@ -121,12 +122,12 @@ currently being supported with security updates.
 | 12.50     | :x:                |
 | 12.60     | :x:                |
 | 12.61     | :x:                |
-
-| Season 13 | Heightmap          |
+# Season 13
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 13.00     | :x:                |
-
-| Season 14 | Heightmap          |
+# Season 14
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 14.00     | :x:                |
 | 14.10     | :x:                |
@@ -135,8 +136,8 @@ currently being supported with security updates.
 | 14.40     | :x:                |
 | 14.50     | :x:                |
 | 14.60     | :x:                |
-
-| Season 15 | Heightmap          |
+# Season 15
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 15.00     | :x:                |
 | 15.10     | :x:                |
@@ -146,8 +147,8 @@ currently being supported with security updates.
 | 15.40     | :x:                |
 | 15.50     | :x:                |
 | 15.60     | :x:                |
-
-| Season 16 | Heightmap          |
+# Season 16
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 16.00     | :x:                |
 | 16.10     | :x:                |
@@ -155,8 +156,8 @@ currently being supported with security updates.
 | 16.30     | :x:                |
 | 16.40     | :x:                |
 | 16.50     | :x:                |
-
-| Season 17 | Heightmap          |
+# Season 17
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 17.00     | :x:                |
 | 17.10     | :x:                |
@@ -164,8 +165,8 @@ currently being supported with security updates.
 | 17.30     | :x:                |
 | 17.40     | :x:                |
 | 17.50     | :x:                |
-
-| Season 18 | Heightmap          |
+# Season 18
+| Version   | Heightmap          |
 | -------   | ------------------ |
 | 18.00     | :x:                |
 | 18.10     | :x:                |
