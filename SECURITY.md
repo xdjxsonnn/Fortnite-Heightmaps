@@ -6,8 +6,8 @@ The largest Fortnite heightmap archive on Github to date!
 Here are all the versions we are still working on or have already finished
 
 # Season 0 & 1
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ | -------   | ------------------ |
 | 1.20      | :x:                |
 | 1.7.2     | :x:                |
 | 1.80      | :x:                |
@@ -17,8 +17,8 @@ Here are all the versions we are still working on or have already finished
 | 1.9.1     | :x:                |
 | 1.10      | :white_check_mark: |
 # Season 2
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 1.11      | :white_check_mark: |
 | 2.1.0     | :x:                |
 | 2.3.0     | :x:                |
@@ -26,8 +26,8 @@ Here are all the versions we are still working on or have already finished
 | 2.4.2     | :white_check_mark: |
 | 2.5.0     | :x:                |
 # Season 3
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 3.0       | :x:                |
 | 3.1       | :x:                |
 | 3.2       | :white_check_mark: |
@@ -35,8 +35,8 @@ Here are all the versions we are still working on or have already finished
 | 3.5       | :white_check_mark: |
 | 3.6       | :white_check_mark: |
 # Season 4
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 4.00      | :white_check_mark: |
 | 4.10      | :white_check_mark: |
 | 4.20      | :white_check_mark: |
@@ -44,8 +44,8 @@ Here are all the versions we are still working on or have already finished
 | 4.4.1     | :x:                |
 | 4.50      | :white_check_mark: |
 # Season 5
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 5.00      | :white_check_mark: |
 | 5.10      | :x: 		 |
 | 5.21      | :x: 		 |
@@ -53,8 +53,8 @@ Here are all the versions we are still working on or have already finished
 | 5.40      | :x:		 |
 | 5.41      | :white_check_mark: |
 # Season 6
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 6.00      | :x: 		 |
 | 6.01      | :x:	 	 |
 | 6.02      | :x: 		 |
@@ -65,16 +65,16 @@ Here are all the versions we are still working on or have already finished
 | 6.30      | :x:                |
 | 6.31      | :x:                |
 # Season 7
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 7.00      | :x:                |
 | 7.10      | :white_check_mark: |
 | 7.20      | :x:                |
 | 7.30      | :x:                |
 | 7.40      | :white_check_mark: |
 # Season 8
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 8.00      | :white_check_mark: |
 | 8.01      | :x:                |
 | 8.10      | :x:                |
@@ -85,8 +85,8 @@ Here are all the versions we are still working on or have already finished
 | 8.50      | :x:                |
 | 8.51      | :x:                |
 # Season 9
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 9.00      | :x:                |
 | 9.01      | :x:                |
 | 9.10      | :x:                |
@@ -96,8 +96,8 @@ Here are all the versions we are still working on or have already finished
 | 9.40      | :x:                |
 | 9.41      | :x:                |
 # Season 10
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 10.00     | :x:                |
 | 10.10     | :x:                |
 | 10.20     | :x:                |
@@ -105,13 +105,13 @@ Here are all the versions we are still working on or have already finished
 | 10.31     | :x:                |
 | 10.40     | :x:                |
 # Season 11
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 11.00     | :x:                |
 | 11.31     | :x:                |
 # Season 12
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 12.00     | :x:                |
 | 12.10     | :x:                |
 | 12.20     | :x:                |
@@ -123,12 +123,12 @@ Here are all the versions we are still working on or have already finished
 | 12.60     | :x:                |
 | 12.61     | :x:                |
 # Season 13
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 13.00     | :x:                |
 # Season 14
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 14.00     | :x:                |
 | 14.10     | :x:                |
 | 14.20     | :x:                |
@@ -137,8 +137,8 @@ Here are all the versions we are still working on or have already finished
 | 14.50     | :x:                |
 | 14.60     | :x:                |
 # Season 15
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 15.00     | :x:                |
 | 15.10     | :x:                |
 | 15.20     | :x:                |
@@ -148,8 +148,8 @@ Here are all the versions we are still working on or have already finished
 | 15.50     | :x:                |
 | 15.60     | :x:                |
 # Season 16
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 16.00     | :x:                |
 | 16.10     | :x:                |
 | 16.20     | :x:                |
@@ -157,8 +157,8 @@ Here are all the versions we are still working on or have already finished
 | 16.40     | :x:                |
 | 16.50     | :x:                |
 # Season 17
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 17.00     | :x:                |
 | 17.10     | :x:                |
 | 17.20     | :x:                |
@@ -166,11 +166,13 @@ Here are all the versions we are still working on or have already finished
 | 17.40     | :x:                |
 | 17.50     | :x:                |
 # Season 18
-| Version   | Heightmap          |
-| -------   | ------------------ |
+| Version   | Heightmap          | Minimap   | LINK          |
+| -------   | ------------------ |-------   | ------------------ |
 | 18.00     | :x:                |
 | 18.10     | :x:                |
 | 18.20     | :x:                |
 | 18.30     | :x:                |
 | 18.40     | :x:                |
 | 18.50     | :x:                |
+
+
