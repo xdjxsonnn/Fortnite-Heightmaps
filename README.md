@@ -32,12 +32,12 @@
 # Season 3
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 3.0       | :x:                | :x:       | |
-| 3.1       | :x:                | :x:       | |
-| 3.2       | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/16YoCjl75RLD3OdcoXUOEvVTWfh4oXtYy/view?usp=drive_link |
-| 3.3       | :x:                | :x:       | |
-| 3.5       | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1gKzwt5sc4LYUfBMXvZAHYNCVNndp5jyd/view?usp=drive_link |
-| 3.6       | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Mwnl2URi1bKzKrSZsoP1BNFQbAWBO5Ae/view?usp=drive_link |
+| 3.00      | :x:                | :x:       | |
+| 3.10      | :x:                | :x:       | |
+| 3.20      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/16YoCjl75RLD3OdcoXUOEvVTWfh4oXtYy/view?usp=drive_link |
+| 3.30      | :x:                | :x:       | |
+| 3.50      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1gKzwt5sc4LYUfBMXvZAHYNCVNndp5jyd/view?usp=drive_link |
+| 3.60      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Mwnl2URi1bKzKrSZsoP1BNFQbAWBO5Ae/view?usp=drive_link |
 # Season 4
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
