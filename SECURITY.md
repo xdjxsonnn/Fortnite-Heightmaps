@@ -51,7 +51,7 @@ Here are all the versions we are still working on or have already finished
 | 5.21      | :x: 		 | :x:       |
 | 5.30      | :x: 		 | :x:       |
 | 5.40      | :x:		 | :x:       |
-| 5.41      | :white_check_mark: |
+| 5.41      | :white_check_mark: | :white_check_mark:|
 # Season 6
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
