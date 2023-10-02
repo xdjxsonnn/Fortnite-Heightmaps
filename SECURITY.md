@@ -1,9 +1,9 @@
-# Heightmap-Versions
+# Fortnite-Heightmaps
+The largest Fortnite heightmap archive on Github to date!
 
-## Available Versions
+## Available-Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Here are all the versions we are still working on or have already finished
 
 # Season 0 & 1
 | Version   | Heightmap          |
@@ -174,12 +174,3 @@ currently being supported with security updates.
 | 18.30     | :x:                |
 | 18.40     | :x:                |
 | 18.50     | :x:                |
-
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
