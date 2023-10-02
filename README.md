@@ -13,21 +13,20 @@
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ | -------   | ------------------ |
-| 1.20      | :x:                | :x:       |
-| 1.7.2     | :x:                | :x:       |
-| 1.80      | :x:                | :x:       |
-| 1.8.1     | :x:                | :x:       |
-| 1.8.2     | :x:                | :x:       |
-| 1.90      | :x:                | :x:       |
-| 1.9.1     | :x:                | :x:       |
-| 1.10      | :white_check_mark: | :white_check_mark:|
+| 1.7.2     | :x:                | :x:       | |
+| 1.80      | :x:                | :x:       | |
+| 1.8.1     | :x:                | :x:       | |
+| 1.8.2     | :x:                | :x:       | |
+| 1.90      | :x:                | :x:       | |
+| 1.9.1     | :x:                | :x:       | |
+| 1.10      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1kWVfHBiapu4viZR7cdvDtUjpO2Xp5PiT/view?usp=sharing|
 # Season 2
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 1.11      | :white_check_mark: | :white_check_mark:|
-| 2.1.0     | :x:                | :x:       |
-| 2.3.0     | :x:                | :x:       |
-| 2.4.0     | :x:                | :x:       |
+| 1.11      | :white_check_mark: | :white_check_mark:| |
+| 2.1.0     | :x:                | :x:       | |
+| 2.3.0     | :x:                | :x:       | |
+| 2.4.0     | :x:                | :x:       | |
 | 2.4.2     | :white_check_mark: | :white_check_mark:|
 | 2.5.0     | :x:                | :x:       |
 # Season 3
