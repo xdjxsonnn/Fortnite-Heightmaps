@@ -15,7 +15,7 @@ currently being supported with security updates.
 | 1.90      | :x:                |
 | 1.9.1     | :x:                |
 | 1.10      | :white_check_mark: |
-
+# Season
 | Season 2  | Heightmap          |
 | -------   | ------------------ |
 | 1.11      | :white_check_mark: |
