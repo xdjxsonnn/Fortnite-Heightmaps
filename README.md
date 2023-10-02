@@ -8,7 +8,7 @@
 ## Settings
 | LINK    |
 | ------- |
-|https://github.com/76e451df-2d30-4f3a-b396-4230035296a0|
+|https://drive.usercontent.google.com/download?id=1i8bdOFfuU6AhUyDivRwxL5q0j2MBBKRd&export=download&authuser=0&confirm=t&uuid=3015a947-8261-4335-b0e7-b68090a63a44&at=APZUnTV-mwp7t7jNTGIbIdnsottq:1696266150822|
 
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   | LINK               |
