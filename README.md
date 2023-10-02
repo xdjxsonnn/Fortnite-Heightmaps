@@ -6,8 +6,8 @@
 * Here are all the versions we are still working on or have already finished
 
 ## Settings
-| LINK    |
-| ------- |
+| LINK                                                                                |
+| -------                                                                             |
 |https://drive.google.com/file/d/1i8bdOFfuU6AhUyDivRwxL5q0j2MBBKRd/view?usp=drive_link|
 
 # Season 0 & 1
