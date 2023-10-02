@@ -8,7 +8,7 @@
 ## Settings
 | LINK    |
 | ------- |
-|https://drive.usercontent.google.com/download?id=1i8bdOFfuU6AhUyDivRwxL5q0j2MBBKRd&export=download&authuser=0&confirm=t&uuid=3015a947-8261-4335-b0e7-b68090a63a44&at=APZUnTV-mwp7t7jNTGIbIdnsottq:1696266150822|
+|https://drive.google.com/file/d/1i8bdOFfuU6AhUyDivRwxL5q0j2MBBKRd/view?usp=drive_link|
 
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   | LINK               |
