@@ -33,7 +33,7 @@
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
 | 3.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1FHqQigiPvsROF24MFk0lXq3fIS07dwrR/view?usp=drive_link |
-| 3.10      |  :white_check_mark:| :white_check_mark:|https://drive.google.com/file/d/1s-Xg1PDXrOJWSBb0SXnDq3p4xtbprUF3/view?usp=drive_link |
+| 3.10      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1s-Xg1PDXrOJWSBb0SXnDq3p4xtbprUF3/view?usp=drive_link |
 | 3.1.1     | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Hv2iiCllXK5bonfex6p0hPsV486Mmp7y/view?usp=drive_link |
 | 3.20      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/16YoCjl75RLD3OdcoXUOEvVTWfh4oXtYy/view?usp=drive_link |
 | 3.30      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1pKJCgO1N5DoXKJgJr-61EtXrEBb5ZWPi/view?usp=drive_link |
@@ -52,20 +52,20 @@
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
 | 5.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1kHvtNMPnuTOBdBYUtUIYcXeC4foJvlyT/view?usp=drive_link |
-| 5.10      | :x: 		           | :x:       | |
-| 5.21      | :x: 		           | :x:       | |
-| 5.30      | :x: 		           | :x:       | |
-| 5.40      | :x:		             | :x:       | |
+| 5.10      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/10ygAWRV-6qpGGGzp2ChVVAFH4iEcm3OL/view?usp=drive_link |
+| 5.21      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1rFQ6S_4VJDClMADRFI6E-FlCOso1sy00/view?usp=drive_link |
+| 5.30      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1HzVdT2ZwZm8pgjKbJ4RZmRtzu-HJD0Xc/view?usp=drive_link |
+| 5.40      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1rV90I_VNSAnDh08jRGuTGaQjtjUUHcpw/view?usp=drive_link |
 | 5.41      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/12r_gFz1eVNyBjaZtF14OF2PE4auO0cud/view?usp=drive_link |
 # Season 6
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
-| 6.00      | :x: 		           | :x:       | |
-| 6.01      | :x:	 	             | :x:       | |
-| 6.02      | :x: 		           | :x:       | |
+| 6.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1RYQ7PAtVvh67hLSdiBD7tdYM1S0u4BYf/view?usp=drive_link |
+| 6.01      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1MZCl1fM47oD3yH5MNLVGJwWPrI_zfaGy/view?usp=drive_link |
+| 6.02      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1CdGFYGwWdOw8b5OlHoNKgeaE0got-hUs/view?usp=drive_link |
 | 6.10      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/18RE_jy89xjt-sOmQh02CDORQaodNtwrO/view?usp=drive_link |
 | 6.20      | :x:                | :x:       | |
-| 6.21      | :x:                | :x:       | |
+| 6.21      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1IPz8ud9JPzQXzI9QbHkYTteGeP7OTDhl/view?usp=drive_link |
 | 6.22      | :x:                | :x:       | |
 | 6.30      | :x:                | :x:       | |
 | 6.31      | :x:                | :x:       | |
@@ -88,7 +88,7 @@
 | 8.30      | :x:                | :x:       | |
 | 8.40      | :x:                | :x:       | |
 | 8.50      | :x:                | :x:       | |
-| 8.51      | :x:                | :x:       | |
+| 8.51      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1ZRMPyJbopKFXlimThbUZFP0E87g4247a/view?usp=drive_link |
 # Season 9
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
