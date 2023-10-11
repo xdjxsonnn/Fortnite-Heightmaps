@@ -66,9 +66,9 @@
 | 6.10      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/18RE_jy89xjt-sOmQh02CDORQaodNtwrO/view?usp=drive_link |
 | 6.20      | :x:                | :x:       | |
 | 6.21      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1IPz8ud9JPzQXzI9QbHkYTteGeP7OTDhl/view?usp=drive_link |
-| 6.22      | :x:                | :x:       | |
-| 6.30      | :x:                | :x:       | |
-| 6.31      | :x:                | :x:       | |
+| 6.22      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1xpFIQt9CDdgcnUYmybBkcaltJqGP2z65/view?usp=drive_link |
+| 6.30      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1CRFcY4I1IkmzCF9iFTp0zXr5SBkItZlb/view?usp=drive_link |
+| 6.31      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1oO4a-YoTGQDZowqnJpyq26BaKwAJXluc/view?usp=drive_link |
 # Season 7
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
@@ -84,16 +84,16 @@
 | 8.01      | :x:                | :x:       | |
 | 8.10      | :x:                | :x:       | |
 | 8.11      | :x:                | :x:       | |
-| 8.20      | :x:                | :x:       | |
-| 8.30      | :x:                | :x:       | |
-| 8.40      | :x:                | :x:       | |
-| 8.50      | :x:                | :x:       | |
+| 8.20      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1k0JZ_bRsgxeLBMbS7yHzu56TtqeL1oHB/view?usp=drive_link |
+| 8.30      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1HYNfUfhkwczuGacRHdd9LUHjQrOGtg75/view?usp=drive_link |
+| 8.40      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1MYiBTdjZl43NU0W-l7WiAnnnfQETiVcy/view?usp=drive_link |
+| 8.50      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/15Lf8KU5k2Xlp7cXfkN8S2K0euKvWuaOI/view?usp=drive_link |
 | 8.51      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1ZRMPyJbopKFXlimThbUZFP0E87g4247a/view?usp=drive_link |
 # Season 9
 | Version   | Heightmap          | Minimap   | LINK               |
 | -------   | ------------------ |-------    | ------------------ |
 | 9.00      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/1Bk_2FEHTpIcFMnqKgfAppPCdWFBhqg62/view?usp=drive_link |
-| 9.01      | :x:                | :x:       | |
+| 9.01      | :white_check_mark: | :white_check_mark:|https://drive.google.com/file/d/19GI1CL1cl_YnQeZw7QWAlnmHfMxnnkuj/view?usp=drive_link |
 | 9.10      | :x:                | :x:       | |
 | 9.20      | :x:                | :x:       | |
 | 9.21      | :x:                | :x:       | |
