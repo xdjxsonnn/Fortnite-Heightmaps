@@ -99,7 +99,7 @@
 # Season 10
 | Version   | Heightmap          | Minimap   |
 | -------   | ------------------ |-------    |
-| 10.00     | :x:                | :x:       |
+| 10.00     | :white_check_mark: | :white_check_mark:|
 | 10.10     | :x:                | :x:       |
 | 10.20     | :x:                | :x:       |
 | 10.30     | :x:                | :x:       |
