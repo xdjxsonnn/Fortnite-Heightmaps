@@ -96,7 +96,7 @@
 | 9.30      | :x:                | :x:       | |
 | 9.40      | :x:                | :x:       | |
 | 9.41      | :x:                | :x:       | |
-# Season 10
+# Season X
 | Version   | Heightmap          | Minimap   |
 | -------   | ------------------ |-------    |
 | 10.00     | :white_check_mark: | :white_check_mark:|
