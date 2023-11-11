@@ -102,6 +102,6 @@
 | 10.00     | :white_check_mark: | :white_check_mark:|
 | 10.10     | :white_check_mark: | :white_check_mark:|
 | 10.20     | :white_check_mark: | :white_check_mark:|
-| 10.30     | :x:                | :white_check_mark:|
+| 10.30     | :x:                | :x:       |
 | 10.31     | :white_check_mark: | :white_check_mark:|
 | 10.40     | :x:                | :x:       |
