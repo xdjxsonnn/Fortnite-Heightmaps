@@ -90,18 +90,18 @@
 | -------   | ------------------ |-------    |
 | 9.00      | :white_check_mark: | :white_check_mark:|
 | 9.01      | :white_check_mark: | :white_check_mark:|
-| 9.10      | :x:                | :x:       | |
-| 9.20      | :x:                | :x:       | |
-| 9.21      | :x:                | :x:       | |
-| 9.30      | :x:                | :x:       | |
-| 9.40      | :x:                | :x:       | |
-| 9.41      | :x:                | :x:       | |
-# Season X
+| 9.10      | :x:                | :x:       |
+| 9.20      | :x:                | :x:       |
+| 9.21      | :x:                | :x:       |
+| 9.30      | :x:                | :x:       |
+| 9.40      | :x:                | :x:       |
+| 9.41      | :white_check_mark: | :white_check_mark:|
+# Season 10
 | Version   | Heightmap          | Minimap   |
 | -------   | ------------------ |-------    |
 | 10.00     | :white_check_mark: | :white_check_mark:|
-| 10.10     | :x:                | :x:       |
-| 10.20     | :x:                | :x:       |
-| 10.30     | :x:                | :x:       |
-| 10.31     | :x:                | :x:       |
+| 10.10     | :white_check_mark: | :white_check_mark:|
+| 10.20     | :white_check_mark: | :white_check_mark:|
+| 10.30     | :x:                | :white_check_mark:|
+| 10.31     | :white_check_mark: | :white_check_mark:|
 | 10.40     | :x:                | :x:       |
