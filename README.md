@@ -11,14 +11,12 @@
 | -------   | ------------------ | -------   |
 | 1.7.2     | :x:                | :x:       |
 | 1.80      | :x:                | :x:       |
+| Athena Faceoff| :white_check_mark: | :x:   |
 | 1.8.1     | :x:                | :x:       |
 | 1.8.2     | :x:                | :x:       |
 | 1.90      | :x:                | :x:       |
 | 1.9.1     | :x:                | :x:       |
 | 1.10      | :white_check_mark: | :white_check_mark:|
-# Secret Map
-| Version       | Heightmap          | Minimap|
-| Athena Faceoff| :white_check_mark: | :x:   |
 # Season 2
 | Version   | Heightmap          | Minimap   |
 | -------   | ------------------ |-------    |
