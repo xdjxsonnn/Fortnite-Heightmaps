@@ -5,6 +5,10 @@
 
 * Here are all the versions we are still working on or have already finished
 
+# Settings Athena_Terrain
+|Location | X : -153000.0 |Y : -153000.0 |Z : -1692.0
+|Rotation | X : 0	        |Y : 0 	       |Z : 0
+|Scale    | X : 200.7874  |Y : 200.7874  |Z : 50
 
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   |
@@ -16,6 +20,9 @@
 | 1.90      | :x:                | :x:       |
 | 1.9.1     | :x:                | :x:       |
 | 1.10      | :white_check_mark: | :white_check_mark:|
+# Secret Map
+| Version       | Heightmap          | Minimap|
+| Athena Faceoff| :white_check_mark: | :x:   |
 # Season 2
 | Version   | Heightmap          | Minimap   |
 | -------   | ------------------ |-------    |
@@ -93,7 +100,7 @@
 | 9.10      | :x:                | :x:       |
 | 9.20      | :x:                | :x:       |
 | 9.21      | :x:                | :x:       |
-| 9.30      | :x:                | :x:       |
+| 9.30      | :white_check_mark: | :white_check_mark:|
 | 9.40      | :x:                | :x:       |
 | 9.41      | :white_check_mark: | :white_check_mark:|
 # Season 10
