@@ -6,11 +6,11 @@
 * Here are all the versions we are still working on or have already finished
 
 # Settings Athena_Terrain
-|Location              | Rotation     |Scale             |
-|----------------------|--------------|------------------|
-| X  -153000.0         | X  0         | X  200.7874      |
-| Y  -153000.0         | Y  0         | Y  200.7874      |
-| Z  -1692.0           | Z  0         | Z  50            |
+|XYZ|     Location     | Rotation    |Scale            |
+|---|------------------|-------------|-----------------|
+| X |  -153000.0       |   0         |   200.7874      |
+| Y |  -153000.0       |   0         |   200.7874      |
+| Z | -1692.0          |   0         |   50            |
 
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   |
