@@ -5,7 +5,7 @@
 
 * Here are all the versions we are still working on or have already finished
 
-# Settings Athena_Terrain
+# Settings Athena_Terrain 
 |X Y Z|     Location     | Rotation    |Scale            |
 |-----|------------------|-------------|-----------------|
 | X   |  -153000.0       |   0         |   200.7874      |
@@ -18,6 +18,7 @@
 | X   |   -19000.0       |   0         |   100           |
 | Y   |   -19000.0       |   0         |   100           |
 | Z   |    0             |   0         |   50            |
+##(USE Resample for layer infos as import type for Athena_Faceoff)
 
 # Season 0 & 1
 | Version   | Heightmap          | Minimap   |
