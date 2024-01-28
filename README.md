@@ -18,6 +18,7 @@
 | X   |   -19000.0       |   0         |   100           |
 | Y   |   -19000.0       |   0         |   100           |
 | Z   |    0             |   0         |   50            |
+
 ##(USE Resample for layer infos as import type for Athena_Faceoff)
 
 # Season 0 & 1
