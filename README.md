@@ -10,6 +10,14 @@ Need help or just want to hang out? Come join us on Discord! 🚀
 
 See you there! 😄
 
+### 🌟 Support Us on Patreon! 🌟
+
+If you enjoy our work and want to support us, consider becoming a patron! 🙌
+
+👉 [Become a Patron!](https://www.patreon.com/xdjsonnn)
+
+Thank you for your support! 💖
+
 ### Available Versions
 
 Here are the versions we're currently working on or have already completed:
