@@ -2,6 +2,14 @@
 
 Welcome to the largest Fortnite heightmap archive on GitHub!
 
+### 🎉 Join Our Discord Community! 🎉
+
+Need help or just want to hang out? Come join us on Discord! 🚀
+
+👉 [Join Now!](https://discord.gg/gEt5ZnBdmn)
+
+See you there! 😄
+
 ### Available Versions
 
 Here are the versions we're currently working on or have already completed:
